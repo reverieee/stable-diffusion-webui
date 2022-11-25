@@ -1,0 +1,3 @@
+masterpiece, best quality, masterpiece, best quality, (blue archieve),(masterpiece),brown hair,brown eyes,light eyes,{legs_up},small_breasts,loli,serafuku,white,stockings,miniskirt,thin_thighs,
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad hands,text,water mark,bad feet,error,extra digit,fewer digits,penis,nsfw,bad anatomy,bad legs,bad chair,extra fingers,fused fingers,too many fingers,poorly drawn hands,malformed limbs,extra limbs
+Steps: 32, Sampler: Euler a, CFG scale: 12, Seed: 1989981631, Size: 640x640, Model hash: 6569e224, Clip skip: 2, ENSD: 31337
